@@ -1,20 +1,16 @@
 # Assignment-3
 ##### Introduction
-This is the assignment #3 of CS648. The assignment is of 2 parts. Here the main learning is of understanding and implementation of selectors types
+The third assignment for CS648 is the following. The task consists of two sections. Here, knowing and using various selector types is the key lesson to be learned.
 
-### First half:
+##### Part1:
 The first part of assignment is concerned with styling the _index.html_.
 
 ##### Part2:
-The second part of the assignment is concerned with styling the Vecta corp website and its pages.
-
-#### Technologies Used:
- - HTML5
- - CSS3
+The Vecta Corp website and its pages are styled in the assignment's second section.
 
 #### CSS Selectors used:
 1. Attribute
-2. Multiple Elements
+2. Pseudo elements
 3. Pseduo selectors
 4. Descendants
-5. Pseudo elements
+5. Multiple Elements
